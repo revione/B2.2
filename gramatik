@@ -1,0 +1,38 @@
+| Geschlecht | Bestimmter  | Bestimmter | Adjektiv      | Unbestimmter   | Unbestimmter  | Adjektiv       | Endung |
+|            | Artikel     | Artikel    | (bestimmt)    | Artikel        | Artikel       | (unbestimmt)   |        |
+|            | (Nominativ) | (Akkusativ)|               | (Nominativ)    | (Akkusativ)   |                |        |
+|------------|-------------|------------|---------------|----------------|---------------|----------------|--------|
+| Maskulin   | der         | den        | großen Hund   | ein            | einen         | großen Hund    | -en    |
+| Feminin    | die         | die        | schöne Katze  | eine           | eine          | schöne Katze   | -e     |
+| Neutrum    | das         | das        | kleine Kind   | ein            | ein           | kleines Kind   | -es    |
+| Plural     | die         | die        | alten Bücher  | (kein)         | (kein)        | alte Bücher    | -e     |
+
+
+| Geschlecht | Bestimmter  | Bestimmter | Adjektiv      | Unbestimmter   | Unbestimmter  | Adjektiv       | Endung |
+|            | Artikel     | Artikel    | (bestimmt)    | Artikel        | Artikel       | (unbestimmt)   |        |
+|            | (Nominativ) | (Dativ)    |               | (Nominativ)    | (Dativ)       |                |        |
+|------------|-------------|------------|---------------|----------------|---------------|----------------|--------|
+| Maskulin   | der         | dem        | großen Hund   | ein            | einem         | großen Hund    | -en    |
+| Feminin    | die         | der        | schönen Katze | eine           | einer         | schönen Katze  | -en    |
+| Neutrum    | das         | dem        | kleinen Kind  | ein            | einem         | kleinen Kind   | -en    |
+| Plural     | die         | den        | alten Bücher  | (kein)         | (keinen)      | alten Bücher   | -en    |
+
+
+| Geschlecht | Bestimmter  | Bestimmter | Adjektiv      | Unbestimmter   | Unbestimmter  | Adjektiv       | Endung |
+|            | Artikel     | Artikel    | (bestimmt)    | Artikel        | Artikel       | (unbestimmt)   |        |
+|            | (Nominativ) | (Genitiv)  |               | (Nominativ)    | (Genitiv)     |                |        |
+|------------|-------------|------------|---------------|----------------|---------------|----------------|--------|
+| Maskulin   | der         | des        | großen Hundes | ein            | eines         | großen Hundes  | -en    |
+| Feminin    | die         | der        | schönen Katze | eine           | einer         | schönen Katze  | -en    |
+| Neutrum    | das         | des        | kleinen Kindes| ein            | eines         | kleinen Kindes | -en    |
+| Plural     | die         | der        | alten Bücher  | (kein)         | (keiner)      | alten Bücher   | -en    |
+
+
+| Geschlecht | Bestimmter  | Bestimmter | Adjektiv      | Unbestimmter   | Unbestimmter  | Adjektiv       | Endung |
+|            | Artikel     | Artikel    | (bestimmt)    | Artikel        | Artikel       | (unbestimmt)   |        |
+|            | (Nominativ) | (Nominativ)|               | (Nominativ)    | (Nominativ)   |                |        |
+|------------|-------------|------------|---------------|----------------|---------------|----------------|--------|
+| Maskulin   | der         | der        | große Hund    | ein            | ein           | großer Hund    | -er    |
+| Feminin    | die         | die        | schöne Katze  | eine           | eine          | schöne Katze   | -e     |
+| Neutrum    | das         | das        | kleine Kind   | ein            | ein           | kleines Kind   | -es    |
+| Plural     | die         | die        | alte Bücher   | (kein)         | (kein)        | alte Bücher    | -e     |
